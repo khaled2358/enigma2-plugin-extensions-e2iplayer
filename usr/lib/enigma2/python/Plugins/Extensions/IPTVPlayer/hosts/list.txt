@@ -35,6 +35,7 @@ hostdarshowcom
 hostddl
 hostdel
 hostdixmax
+hostdplayit
 hostdokumentalnenet
 hostdpstreamingcx
 hostdrdk
@@ -97,6 +98,7 @@ hostkisscartoonme
 hostkkiste
 hostkreskoweczki
 hostkreskowkazone
+hostla7it
 hostlaola1tv
 hostlibrestream
 hostliveleak
@@ -130,6 +132,7 @@ hostorthobulletscom
 hostotakufr
 hostourmatchnet
 hostpinkbike
+hostpmgsport
 hostplanetstreamingcom
 hostplaypuls
 hostplayrtsiw
@@ -137,8 +140,10 @@ hostplusdede
 hostputlockertvto
 hostquesttvcouk
 hostradiostacja
+hostraiplay
 hostrtbfbe
 hostrteieplayer
+hostrtlmost
 hostserialeco
 hostserialnet
 hostserienstreamto
